@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andreymashko7/goit-nodejs-homework.git"
+    "url": "git+https://github.com/andreymashko7/nodejs-homework.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andreymashko7/goit-nodejs-homework/issues"
+    "url": "https://github.com/andreymashko7/nodejs-homework/issues"
   },
-  "homepage": "https://github.com/andreymashko7/goit-nodejs-homework#readme",
+  "homepage": "https://github.com/andreymashko7/nodejs-homework#readme",
   "devDependencies": {
     "nodemon": "^2.0.7"
   },
